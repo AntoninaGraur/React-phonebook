@@ -13,7 +13,7 @@ function UserAuthoriz() {
   return (
     <LogoutContainer>
       <Avatar
-        src={'https://icons.iconarchive.com/icons/hopstarter/sleek-xp-basic/256/Office-Girl-icon.png'}
+        // src={}
         alt="default user"
         width="35px"
         height="35px"

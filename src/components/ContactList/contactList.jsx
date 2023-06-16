@@ -33,7 +33,7 @@ export function ContactList() {
           <ContactsLi key={contact?.id}>
             {contact?.name} <span>{contact?.number} </span>
             <DeleteBtn onClick={() => dispatch(deleteContact(contact?.id))}>
-              Delete
+              Delete kontact
             </DeleteBtn>
           </ContactsLi>
         ))}
