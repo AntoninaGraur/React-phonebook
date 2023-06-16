@@ -10,7 +10,7 @@ function PageContacts() {
     <>
       <SectionMain>
         <FormContainer>
-          <FormTitle>Phonebook</FormTitle>
+          <FormTitle>Phonebook </FormTitle>
           <ContactForm />
           <h2> Contacts</h2>
           <Filter />
